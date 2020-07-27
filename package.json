@@ -1,0 +1,23 @@
+{
+  "name": "charts_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UchihaSimar/charts_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UchihaSimar/charts_js/issues"
+  },
+  "homepage": "https://github.com/UchihaSimar/charts_js#readme"
+}
